@@ -257,7 +257,7 @@ export default {
           "api.tsutsu.one (つつ提供-负载均衡-支持IPv4/IPv6)": "https://api.tsutsu.one/sub?",
         },
         backendOptions: [
-          { value: "https://api.tsutsu.one/sub?" },
+          { value: "https://meihuacf002.l4535svip.workers.dev/sub?" },
         ],
         remoteConfig: [
           {
